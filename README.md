@@ -8,4 +8,9 @@ g_multi for now
 * hid keyboard support to send keystrokes to hardware before OS loads
 * network support for IP communication, pxe
 * configuration interface
-* flashing interface (not to blow away ii, but to update it offline)
+* flashing interface (not to blow away ii, but to update it offline
+ 
+
+Supported Builds:
+
+* https://github.com/ii/meta-edison-ii
